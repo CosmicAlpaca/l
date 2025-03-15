@@ -1,0 +1,8 @@
+flask
+tensorflow
+joblib
+pandas
+numpy
+scikit-learn
+gunicorn
+flask-cors  # For Cross-Origin Resource Sharing with Node.js
